@@ -1,0 +1,30 @@
+C:\Users\BushWalcker\source\repos\nums_and_colors\nums_and_colors\bin\Debug\nums_and_colors.exe.config
+C:\Users\BushWalcker\source\repos\nums_and_colors\nums_and_colors\bin\Debug\nums_and_colors.exe
+C:\Users\BushWalcker\source\repos\nums_and_colors\nums_and_colors\bin\Debug\nums_and_colors.pdb
+C:\Users\BushWalcker\source\repos\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.csprojAssemblyReference.cache
+C:\Users\BushWalcker\source\repos\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.Form1.resources
+C:\Users\BushWalcker\source\repos\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.Properties.Resources.resources
+C:\Users\BushWalcker\source\repos\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.csproj.GenerateResource.cache
+C:\Users\BushWalcker\source\repos\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.exe
+C:\Users\BushWalcker\source\repos\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.pdb
+F:\второй курс\nums_and_colors\nums_and_colors\bin\Debug\nums_and_colors.exe.config
+F:\второй курс\nums_and_colors\nums_and_colors\bin\Debug\nums_and_colors.exe
+F:\второй курс\nums_and_colors\nums_and_colors\bin\Debug\nums_and_colors.pdb
+F:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.Form1.resources
+F:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.Properties.Resources.resources
+F:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.csproj.GenerateResource.cache
+F:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.exe
+F:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.pdb
+G:\второй курс\nums_and_colors\nums_and_colors\bin\Debug\nums_and_colors.exe.config
+G:\второй курс\nums_and_colors\nums_and_colors\bin\Debug\nums_and_colors.exe
+G:\второй курс\nums_and_colors\nums_and_colors\bin\Debug\nums_and_colors.pdb
+G:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.csprojAssemblyReference.cache
+G:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.Form1.resources
+G:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.Properties.Resources.resources
+G:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.csproj.GenerateResource.cache
+G:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.csproj.CoreCompileInputs.cache
+G:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.exe
+G:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.pdb
+F:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.csproj.AssemblyReference.cache
+F:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.csproj.SuggestedBindingRedirects.cache
+F:\второй курс\nums_and_colors\nums_and_colors\obj\Debug\nums_and_colors.csproj.CoreCompileInputs.cache

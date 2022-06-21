@@ -1,0 +1,41 @@
+G:\ООП\Фигуры2\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.exe.config
+G:\ООП\Фигуры2\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.exe
+G:\ООП\Фигуры2\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.pdb
+G:\ООП\Фигуры2\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csprojAssemblyReference.cache
+G:\ООП\Фигуры2\Фигуры 2\Фигуры 2\obj\Debug\Фигуры_2.Form1.resources
+G:\ООП\Фигуры2\Фигуры 2\Фигуры 2\obj\Debug\Фигуры_2.Properties.Resources.resources
+G:\ООП\Фигуры2\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.GenerateResource.cache
+G:\ООП\Фигуры2\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.CoreCompileInputs.cache
+G:\ООП\Фигуры2\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.exe
+G:\ООП\Фигуры2\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.pdb
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.exe.config
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.exe
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.pdb
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры_2.Form1.resources
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры_2.Properties.Resources.resources
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.GenerateResource.cache
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.exe
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.pdb
+G:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.exe.config
+G:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.exe
+G:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.pdb
+G:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csprojAssemblyReference.cache
+G:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры_2.Form1.resources
+G:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры_2.Properties.Resources.resources
+G:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.GenerateResource.cache
+G:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.CoreCompileInputs.cache
+G:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.exe
+G:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.pdb
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.AssemblyReference.cache
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.SuggestedBindingRedirects.cache
+F:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.CoreCompileInputs.cache
+D:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.exe.config
+D:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.exe
+D:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\bin\Debug\Фигуры 2.pdb
+D:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.AssemblyReference.cache
+D:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры_2.Form1.resources
+D:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры_2.Properties.Resources.resources
+D:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.GenerateResource.cache
+D:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.csproj.CoreCompileInputs.cache
+D:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.exe
+D:\второй курс\F.I.G 25.10.2020\Фигуры 2\Фигуры 2\obj\Debug\Фигуры 2.pdb

@@ -1,0 +1,46 @@
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\mdzug\OneDrive\Desktop\saod\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\mdzug\OneDrive\Desktop\saod\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\mdzug\OneDrive\Desktop\saod\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\mdzug\OneDrive\Desktop\saod\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\mdzug\OneDrive\Desktop\saod\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\mdzug\OneDrive\Desktop\saod\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\mdzug\OneDrive\Desktop\saod\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\mdzug\OneDrive\Desktop\saod\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\mdzug\OneDrive\Desktop\saod\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+G:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\bin\Debug\BinaryTree.exe.config
+G:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\bin\Debug\BinaryTree.exe
+G:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\bin\Debug\BinaryTree.pdb
+G:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+G:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+G:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+G:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+G:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.exe
+G:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.pdb
+F:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\bin\Debug\BinaryTree.exe.config
+F:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\bin\Debug\BinaryTree.exe
+F:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\bin\Debug\BinaryTree.pdb
+F:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+F:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.csproj.SuggestedBindingRedirects.cache
+F:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+F:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+F:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+F:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.exe
+F:\второй курс\САОДИК)))\6. ДЕРЕВО\BinaryTree\obj\Debug\BinaryTree.pdb

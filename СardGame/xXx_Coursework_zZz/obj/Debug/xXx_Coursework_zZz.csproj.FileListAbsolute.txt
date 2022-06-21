@@ -1,0 +1,43 @@
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\bin\Debug\xXx_Coursework_zZz.exe.config
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\bin\Debug\xXx_Coursework_zZz.exe
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\bin\Debug\xXx_Coursework_zZz.pdb
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.csprojAssemblyReference.cache
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Form1.resources
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Properties.Resources.resources
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.csproj.GenerateResource.cache
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.csproj.CoreCompileInputs.cache
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.exe
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.pdb
+C:\Users\Admin\Desktop\xXx_Coursework_zZz\xXx_Coursework_zZz\bin\Debug\xXx_Coursework_zZz.exe.config
+C:\Users\Admin\Desktop\xXx_Coursework_zZz\xXx_Coursework_zZz\bin\Debug\xXx_Coursework_zZz.exe
+C:\Users\Admin\Desktop\xXx_Coursework_zZz\xXx_Coursework_zZz\bin\Debug\xXx_Coursework_zZz.pdb
+C:\Users\Admin\Desktop\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.cards_aAa.resources
+C:\Users\Admin\Desktop\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Form1.resources
+C:\Users\Admin\Desktop\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Properties.Resources.resources
+C:\Users\Admin\Desktop\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.exe
+C:\Users\Admin\Desktop\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.pdb
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Form2.resources
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Regis.resources
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.startsk.resources
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.cards_aAa.resources
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Form3.resources
+C:\Users\21st\source\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.WinSize.resources
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\bin\Debug\xXx_Coursework_zZz.exe.config
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\bin\Debug\xXx_Coursework_zZz.exe
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\bin\Debug\xXx_Coursework_zZz.pdb
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.csproj.AssemblyReference.cache
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.csproj.SuggestedBindingRedirects.cache
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.cards_aAa.resources
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Form1.resources
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Form2.resources
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Form3.resources
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Properties.Resources.resources
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.Regis.resources
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.startsk.resources
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.WinSize.resources
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.csproj.GenerateResource.cache
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.csproj.CoreCompileInputs.cache
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.exe
+F:\компьютеры 1го курса\repos\xXx_Coursework_zZz\xXx_Coursework_zZz\obj\Debug\xXx_Coursework_zZz.pdb

@@ -1,0 +1,31 @@
+C:\Users\21st\source\repos\Automobil\Automobil\bin\Debug\Automobil.exe.config
+C:\Users\21st\source\repos\Automobil\Automobil\bin\Debug\Automobil.exe
+C:\Users\21st\source\repos\Automobil\Automobil\bin\Debug\Automobil.pdb
+C:\Users\21st\source\repos\Automobil\Automobil\obj\Debug\Automobil.csprojAssemblyReference.cache
+C:\Users\21st\source\repos\Automobil\Automobil\obj\Debug\Automobil.Form1.resources
+C:\Users\21st\source\repos\Automobil\Automobil\obj\Debug\Automobil.Properties.Resources.resources
+C:\Users\21st\source\repos\Automobil\Automobil\obj\Debug\Automobil.csproj.GenerateResource.cache
+C:\Users\21st\source\repos\Automobil\Automobil\obj\Debug\Automobil.csproj.CoreCompileInputs.cache
+C:\Users\21st\source\repos\Automobil\Automobil\obj\Debug\Automobil.exe
+C:\Users\21st\source\repos\Automobil\Automobil\obj\Debug\Automobil.pdb
+G:\компьютеры 1го курса\repos\Automobil\Automobil\bin\Debug\Automobil.exe.config
+G:\компьютеры 1го курса\repos\Automobil\Automobil\bin\Debug\Automobil.exe
+G:\компьютеры 1го курса\repos\Automobil\Automobil\bin\Debug\Automobil.pdb
+G:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.csprojAssemblyReference.cache
+G:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.Form1.resources
+G:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.Properties.Resources.resources
+G:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.csproj.GenerateResource.cache
+G:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.csproj.CoreCompileInputs.cache
+G:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.exe
+G:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.pdb
+F:\компьютеры 1го курса\repos\Automobil\Automobil\bin\Debug\Automobil.exe.config
+F:\компьютеры 1го курса\repos\Automobil\Automobil\bin\Debug\Automobil.exe
+F:\компьютеры 1го курса\repos\Automobil\Automobil\bin\Debug\Automobil.pdb
+F:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.csproj.AssemblyReference.cache
+F:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.csproj.SuggestedBindingRedirects.cache
+F:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.Form1.resources
+F:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.Properties.Resources.resources
+F:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.csproj.GenerateResource.cache
+F:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.csproj.CoreCompileInputs.cache
+F:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.exe
+F:\компьютеры 1го курса\repos\Automobil\Automobil\obj\Debug\Automobil.pdb
