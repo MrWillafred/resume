@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    align-items: center
+}
+
+img.rot1{
+    width: 91px;
+    margin: auto; 
+    z-index: 6;
+}
+img.rot2{
+    width: 631px;
+    margin: auto; 
+    z-index: 6;
+}
+
+h1{
+    color: lime;
+    font-family: serif;
+    z-index: 6;
+}
+
+.map{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+img.rot {
+    animation: 1s linear 0s normal none infinite running rot;
+    -webkit-animation: 1s linear 0s normal none infinite running rot;
+  }
+  @keyframes rot {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  @-webkit-keyframes rot {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+a{
+    margin-left: auto;
+    margin-right: auto;
+}

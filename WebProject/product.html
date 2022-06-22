@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product</title>
+    <link rel="stylesheet" href="product.css">
+</head>
+<body>
+    <p>Геймерский продуктовый:</p>
+    <div id="source" class="conteiner" ondragenter="return dragEnter(event)" ondrop="return dragDrop(event)" ondragover="return dragOver(event)">
+
+        <div id="firstDragElement" class="element elem1" ondragstart="return dragStart(event)" ondragend="return dragEnd(event)" draggable="true"></div>
+        
+        <div id="secondDragElement" class="element elem2" ondragstart="return dragStart(event)" ondragend="return dragEnd(event)"draggable="true" ></div>
+    
+        <div id="thirdDragElement" class="element elem3" ondragstart="return dragStart(event)" ondragend="return dragEnd(event)" draggable="true"></div>
+
+        <div id="fothDragElement" class="element elem4" ondragstart="return dragStart(event)" ondragend="return dragEnd(event)" draggable="true"></div>
+    </div>
+    <p>Геймерская корзина:</p>
+    <div id="target1" class="conteiner" ondragenter="return dragEnter(event)" ondrop="return dragDrop(event)" ondragover="return dragOver(event)"></div>
+    </div>
+    <SCRIPT type="text/javascript" src="product.js"></SCRIPT>
+    <SCRIPT type="text/javascript" src="script.js"></SCRIPT>
+</body>
+</html>

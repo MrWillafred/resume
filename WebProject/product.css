@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.element {
+    height: 100px;
+    width: 100px;
+    margin-left:20px;
+    margin-bottom: 10px;
+    text-align:center;
+    color: white;
+    z-index: 5;
+}    
+    
+.conteiner {
+    border: 2px solid lime;
+    height: 500px;
+    width: 100px;
+    float:left;
+    margin: 50px;
+    z-index: 6;
+}
+p{
+    color: white;
+    font-size: 20pt;
+    z-index: 6;
+}
+
+.elem1{
+    background: no-repeat url("/cans/3.png");
+}
+.elem2{
+    background: no-repeat url("/cans/2.png");
+}
+.elem3{
+    background: no-repeat url("/cans/1.png");
+}
+.elem4{
+    background: no-repeat url("/cans/4.png");
+}
+

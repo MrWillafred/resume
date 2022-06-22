@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News</title>
+    <link rel="stylesheet" href="news.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <div class="maindiv">
+        <div class="heder">
+            <h1>ПОСЛЕДНИЕ ГЕЙМЕРСКИЕ НОВОСТИ</h1>
+        </div>
+        <div class="text">
+            <p>
+                Ultra Sunrise посвящается тем, кто готов жертвовать сном ради увлечений: с самого рассвета ловить волну на серфе, гнать на велосипеде по мокрой от росы земле, или первым проскользить по зеркальному озеру, знаменуя начало потрясающей вейкборд-сессии…
+            </p>
+        </div>
+        <div class="textnext">
+            <p>
+                Ultra Sunrise поможет тебе начать действовать в любое время дня: легкий, бодрящий и освежающий – он не содержит сахара, но при этом обладает собственным уникальным вкусом, до отказа наполненным зарядом Monster, чтобы твой запал никогда не угасал – ведь всегда где-то есть рассвет!
+                <br><br>
+                Покупай новинку во всех магазинах Магнит!
+                <br><br>
+                #UtraUnleashed #ВсёБудетБезСахара
+            </p>
+        </div>
+        <button class="musicstart">?</button>
+        <audio class="music" preload="auto">
+        <source src="/explosion meme sound effect.mp3" controls="" autobuffer="" />
+        </audio>
+    </div>
+    <script>
+        jQuery(function($){
+        $('.musicstart').on('click', function(){
+        $('.music')[0].play()
+        });
+        $('.music').hide();
+        });
+    </script>
+    <SCRIPT type="text/javascript" src="script.js"></SCRIPT>
+</body>
+</html>
